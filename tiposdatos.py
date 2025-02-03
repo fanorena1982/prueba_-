@@ -29,6 +29,7 @@ suma = num1 + num2
 resta = num1 - num2
 mult = num1 * num2
 div = num1 / num2
+"""
 print("Hola "+nombre)
 print("La suma de los dos numeros es: ",suma)
 print("La resta de los dos numeros es: ",resta)
@@ -43,4 +44,4 @@ print("El costo total es de ", costototal)
 valorpagado = int(input("Ingrese el valor pagado por el cliente "))
 devuelta = valorpagado - costototal
 print("Debe devolver a ",nombrecliente, " ",devuelta)
-"""
+
